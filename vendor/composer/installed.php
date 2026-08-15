@@ -3,7 +3,7 @@
         'name' => 'innova/envios',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'd133e1fabf47a72bdb19b30716b300a71196ba65',
+        'reference' => '91c8605d22da47662121e226b5b57a9e0bb347c1',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'innova/envios' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'd133e1fabf47a72bdb19b30716b300a71196ba65',
+            'reference' => '91c8605d22da47662121e226b5b57a9e0bb347c1',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
